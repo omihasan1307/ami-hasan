@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Jost&display=swap");
+
+@keyframes bg_shadow {
+  0% {
+    transform: translate(-5%, -5%);
+  }
+  100% {
+    transform: translate(5%, 5%);
+  }
+}
+
+.bg_shadow_animation {
+  animation: bg_shadow 2s linear 0s infinite alternate;
+  animation-play-state: running;
+}

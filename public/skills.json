@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "skill": "HTML",
+    "icon": "./skills/html.png"
+  },
+  {
+    "id": 2,
+    "skill": "CSS",
+    "icon": "./skills/css.png"
+  },
+  {
+    "id": 3,
+    "skill": "Sass",
+    "icon": "./skills/sass.png"
+  },
+  {
+    "id": 4,
+    "skill": "Bootstrap",
+    "icon": "./skills/bootstrap.png"
+  },
+  {
+    "id": 5,
+    "skill": "TailwindCSS",
+    "icon": "./skills/tailwind.svg"
+  },
+  {
+    "id": 6,
+    "skill": "JavaScript",
+    "icon": "./skills/javascript.png"
+  },
+  {
+    "id": 7,
+    "skill": "React JS",
+    "icon": "./skills/reactjs.png"
+  },
+  {
+    "id": 8,
+    "skill": "Next JS",
+    "icon": "./skills/nextjs.svg"
+  },
+  {
+    "id": 9,
+    "skill": "Firebase",
+    "icon": "./skills/firebase.png"
+  },
+  {
+    "id": 10,
+    "skill": "Node JS",
+    "icon": "./skills/nodejs.png"
+  },
+  {
+    "id": 11,
+    "skill": "Express JS",
+    "icon": "./skills/expressjs.png"
+  },
+  {
+    "id": 12,
+    "skill": "MongoDB",
+    "icon": "./skills/mongodb.png"
+  },
+  {
+    "id": 13,
+    "skill": "Figma",
+    "icon": "./skills/figma.png"
+  },
+  {
+    "id": 14,
+    "skill": "Redux",
+    "icon": "./skills/redux.png"
+  }
+]

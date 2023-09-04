@@ -1,0 +1,384 @@
+[
+  {
+    "id": 1,
+    "project": "Burgry",
+    "summary": "This website is basically burger e-commerce website",
+    "image": "https://i.ibb.co/JvMg0zG/Capture.png",
+    "live": "https://burglyf.web.app/",
+    "overview": "Burglyf: Indulge in a delightful online food shopping experience! Explore a wide range of delectable food items across various categories, seamlessly adding favorites to your cart. Our user-friendly interface and secure SSLCommerz payment system ensure a smooth checkout process. Savor the convenience of ordering your cravings at your fingertips",
+    "features": [
+      {
+        "_id": 1,
+        "feature": "User can log in through the Google authentication "
+      },
+      {
+        "_id": 2,
+        "feature": "Customer can see the Item's list and Item's Details."
+      },
+      {
+        "_id": 3,
+        "feature": "Customer can payment with sslcommerz payment system ."
+      },
+      {
+        "_id": 4,
+        "feature": "Customer can add to cart & delete cart from the dashboard ."
+      },
+      {
+        "_id": 5,
+        "feature": "Customer can see their Dashboard and edit the profile ."
+      },
+      {
+        "_id": 6,
+        "feature": "Admin can add the Items and see the item's list and update or delete the list."
+      },
+      {
+        "_id": 7,
+        "feature": "Admin can delete the customer and customer's orders."
+      },
+      {
+        "_id": 8,
+        "feature": "Admin Gmail : admin@gmail.com , Admin Pass : 123456"
+      }
+    ],
+    "technology": [
+      {
+        "_id": 1,
+        "name": "HTML"
+      },
+      {
+        "_id": 2,
+        "name": "CSS"
+      },
+      {
+        "_id": 3,
+        "name": "Tailwind"
+      },
+      {
+        "_id": 4,
+        "name": "React JS"
+      },
+      {
+        "_id": 5,
+        "name": "Firebase"
+      },
+      {
+        "_id": 6,
+        "name": "Node JS "
+      },
+      {
+        "_id": 7,
+        "name": "Express JS"
+      },
+      {
+        "_id": 8,
+        "name": "MongoDB"
+      },
+      {
+        "_id": 9,
+        "name": "TenStack query"
+      },
+      {
+        "_id": 10,
+        "name": "Axios"
+      },
+      {
+        "_id": 11,
+        "name": "sslcommerz"
+      }
+    ],
+
+    "links": {
+      "live": "https://burglyf.web.app/",
+      "client": "https://github.com/omihasan1307/burgry-client",
+      "server": "https://github.com/omihasan1307/burgry-server"
+    }
+  },
+  {
+    "id": 2,
+    "project": "Doc House",
+    "summary": "This website is basically doctor appoinment website",
+    "image": "https://i.ibb.co/1ZYYGtr/dochouse.png",
+    "live": "https://doc-house-49de0.web.app/",
+    "overview": "Doc House is a doctor appoinment website. Doc-House goes beyond being a medical resource hub by offering a convenient and efficient appointment booking system for patients. With our user-friendly platform, patients can easily find and schedule appointments with qualified doctors, all at their suitable time slots.",
+    "features": [
+      {
+        "_id": 1,
+        "feature": "User can log in through the Google authentication "
+      },
+      {
+        "_id": 2,
+        "feature": "Patient can see the doctor's list and doctor's profile."
+      },
+      {
+        "_id": 3,
+        "feature": "Patient can payment with stripe payment system ."
+      },
+      {
+        "_id": 4,
+        "feature": "Patient can booking the slot at their suitable and available time . "
+      },
+      {
+        "_id": 5,
+        "feature": "Patient can see their Dashboard ."
+      },
+      {
+        "_id": 6,
+        "feature": "Admin can add the doctors and see the doctors list. "
+      },
+      {
+        "_id": 7,
+        "feature": "Admin can delete the patient and doctor's."
+      }
+    ],
+    "technology": [
+      {
+        "_id": 1,
+        "name": "HTML"
+      },
+      {
+        "_id": 2,
+        "name": "CSS"
+      },
+      {
+        "_id": 3,
+        "name": "Tailwind"
+      },
+      {
+        "_id": 4,
+        "name": "React JS"
+      },
+      {
+        "_id": 5,
+        "name": "Firebase"
+      },
+      {
+        "_id": 6,
+        "name": "Node JS "
+      },
+      {
+        "_id": 7,
+        "name": "Express JS"
+      },
+      {
+        "_id": 8,
+        "name": "MongoDB"
+      },
+      {
+        "_id": 9,
+        "name": "TenStack query"
+      },
+      {
+        "_id": 10,
+        "name": "Axios"
+      },
+      {
+        "_id": 11,
+        "name": "Stripe"
+      }
+    ],
+
+    "links": {
+      "live": "https://doc-house-49de0.web.app/",
+      "client": "https://github.com/omihasan1307/doc-house-client",
+      "server": "https://github.com/omihasan1307/doc-house-server"
+    }
+  },
+  {
+    "id": 3,
+    "project": "Melody Academy",
+    "summary": "This website is basically Music e-commerce website",
+    "image": "https://i.ibb.co/X5WDcpY/melody.png",
+    "live": "https://melody-acadmey.web.app/",
+    "overview": "Melody Academy is a premier online destination for aspiring musicians and music enthusiasts alike. Our website is dedicated to providing a dynamic and immersive learning experience, designed to nurture and develop your musical talent.",
+    "features": [
+      {
+        "_id": 1,
+        "feature": "User can log in through the Google authentication "
+      },
+      {
+        "_id": 2,
+        "feature": "Admin can see all the users and classes."
+      },
+      {
+        "_id": 3,
+        "feature": "Admin can approved and deny the instructor's classes ."
+      },
+      {
+        "_id": 4,
+        "feature": "Instructor can add the product and see the admin's approval. "
+      },
+      {
+        "_id": 5,
+        "feature": "Student can purchase the class and pay the payment . "
+      },
+      {
+        "_id": 6,
+        "feature": "Admin , instructor and Student have different dashboard. "
+      }
+    ],
+    "technology": [
+      {
+        "_id": 1,
+        "name": "HTML"
+      },
+      {
+        "_id": 2,
+        "name": "CSS"
+      },
+      {
+        "_id": 3,
+        "name": "Tailwind"
+      },
+      {
+        "_id": 4,
+        "name": "React JS"
+      },
+      {
+        "_id": 5,
+        "name": "Firebase"
+      },
+      {
+        "_id": 6,
+        "name": "Node JS "
+      },
+      {
+        "_id": 7,
+        "name": "Express JS"
+      },
+      {
+        "_id": 8,
+        "name": "MongoDB"
+      },
+      {
+        "_id": 9,
+        "name": "TenStack query"
+      },
+      {
+        "_id": 10,
+        "name": "Axios"
+      },
+      {
+        "_id": 11,
+        "name": "Stripe"
+      }
+    ],
+
+    "links": {
+      "live": "https://melody-acadmey.web.app/",
+      "client": "https://github.com/omihasan1307/melody-academy-client",
+      "server": "https://github.com/omihasan1307/melody-academy-server"
+    }
+  },
+  {
+    "id": 4,
+    "project": "Music World",
+    "summary": "This website using for learning tutorial and buying instrument",
+    "image": "https://i.ibb.co/G57nLRN/music-world.png",
+    "live": "https://music-world-358e7.web.app/",
+    "overview": "Music World is your one-stop destination for all things music. Whether you're a budding musician looking to learn, or a seasoned pro in search of the perfect instrument, we've got you covered. Explore our wide range of music lessons, from beginner to advanced, and discover the instrument that resonates with your soul. Join our vibrant community of music enthusiasts, and let the journey to musical excellence begin at Music World.",
+    "features": [
+      {
+        "_id": 1,
+        "feature": "User can buy the product "
+      },
+      {
+        "_id": 2,
+        "feature": "User purchase their suitable courses and can watch the video"
+      },
+      {
+        "_id": 3,
+        "feature": "User can check their dashboard"
+      },
+      {
+        "_id": 4,
+        "feature": "User can payment through the stripe payment system "
+      }
+    ],
+    "technology": [
+      {
+        "_id": 1,
+        "name": "HTML"
+      },
+      {
+        "_id": 2,
+        "name": "CSS"
+      },
+      {
+        "_id": 3,
+        "name": "React JS"
+      },
+      {
+        "_id": 4,
+        "name": "Tailwind"
+      },
+      {
+        "_id": 5,
+        "name": "Firebase"
+      },
+      {
+        "_id": 6,
+        "name": "Stripe"
+      }
+    ],
+
+    "links": {
+      "live": "https://music-world-358e7.web.app/",
+      "client": "https://github.com/omihasan1307/music-world",
+      "server": null
+    }
+  },
+  {
+    "id": 5,
+    "project": "Guest List",
+    "summary": "This website using only for save the guest list",
+    "image": "https://i.ibb.co/CnvgfCm/guest-List.png",
+    "live": "https://guest-list-8db3f.web.app/",
+    "overview": "Welcome to Guest List, the ultimate event planning companion. With Guest List, you can effortlessly create and manage your guest lists for any occasion, from weddings to parties and corporate events. Say goodbye to the hassle of paper lists and spreadsheets – our user-friendly platform lets you keep track of attendees, RSVPs, and even helps you manage your program costs. Simplify your event planning process and ensure a memorable gathering with Guest List",
+    "features": [
+      {
+        "_id": 1,
+        "feature": "User can save the guest information "
+      },
+      {
+        "_id": 2,
+        "feature": "User can save the total cost of program costing"
+      },
+      {
+        "_id": 3,
+        "feature": "User can check the chart in their dashboard"
+      },
+      {
+        "_id": 4,
+        "feature": "User has an dasboard profile"
+      }
+    ],
+    "technology": [
+      {
+        "_id": 1,
+        "name": "HTML"
+      },
+      {
+        "_id": 2,
+        "name": "CSS"
+      },
+      {
+        "_id": 3,
+        "name": "React JS"
+      },
+      {
+        "_id": 4,
+        "name": "Tailwind"
+      },
+      {
+        "_id": 5,
+        "name": "Firebase"
+      }
+    ],
+
+    "links": {
+      "live": "https://guest-list-8db3f.web.app/",
+      "client": "https://github.com/omihasan1307/guest-list",
+      "server": null
+    }
+  }
+]
